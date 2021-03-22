@@ -1,10 +1,10 @@
 /* FINALNI VERZE
-   Simple Arduino Morse Beacon
+   Simple Arduino Morse Beacon use ATTINY85
    Written by Mark VandeWettering K6HX  http://brainwagon.org
    Modified OK1FET 2015/06/12 doplnen:
-   pin (15) D9 NF vystup 
-   pin (16) D10 PTT urcene pro napajeni vysilace na 433MHz 
-   pin (18) D12 je pripojeno cidlo DS18B20 odpor 4K7 na plus
+   pin (6) 1 NF vystup 
+   pin (7) 2 PTT urcene pro napajeni vysilace na 433MHz 
+   pin (3) 4 je pripojeno cidlo DS18B20 odpor 4K7 na plus
    2015/09/05 doplneno mereni napeti
    2015/09/20 zmena zpusobu mereni teploty pomoci knihovny Dallas
    2015/09/20 nastaven SLEEP mod pro setreni baterek
