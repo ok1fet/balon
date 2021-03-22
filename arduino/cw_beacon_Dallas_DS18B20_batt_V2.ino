@@ -1,5 +1,5 @@
 /* FINALNI VERZE
-   Simple Arduino Morse Beacon
+   Simple Arduino Morse Beacon use ATMEGA328
    Written by Mark VandeWettering K6HX  http://brainwagon.org
    Modified OK1FET 2015/06/12 doplnen:
    pin (15) D9 NF vystup 
